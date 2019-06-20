@@ -5,5 +5,5 @@ package com.qf.j1902.pojo;
  */
 public class Person {
     private String name;
-    private  int age;
+    private  int loc;
 }
